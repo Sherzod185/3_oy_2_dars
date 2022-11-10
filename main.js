@@ -6,7 +6,7 @@ let muzey = EURO * 120;
 let jami = bilet + mehmonxona + muzey;
 alert ("Assalomu alaykum saytimizga xush kelibsiz!!!");
 console.log("Assalomu alaykum saytimizga xush kelibsiz!!!");
-let results = prompt ("Summingizni kiriting: ")
+let results = prompt ("Summangizni kiriting: ")
 if (results >= 9732738.6){
   alert ("Oq yo’l, Alisher!");
   console.log("Oq yo’l, Alisher!");
