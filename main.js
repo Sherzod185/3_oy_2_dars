@@ -7,7 +7,7 @@ let jami = bilet + mehmonxona + muzey;
 alert ("Assalomu alaykum saytimizga xush kelibsiz!!!");
 console.log("Assalomu alaykum saytimizga xush kelibsiz!!!");
 let results = prompt ("Summangizni kiriting: ")
-if (results >= 9732738.6){
+if (results >= jami){
   alert ("Oq yo’l, Alisher!");
   console.log("Oq yo’l, Alisher!");
 }
